@@ -2,7 +2,7 @@
 
 ## About this project?
 
-This project is about ordering online food from your local restaurants. Anybody can create an account and order online. you are free to to use this project for college or school purposes. Please note that this project is not made for business or commercial purposes.
+This project is about ordering online food from your local restaurants. Anybody can create an account and order online. Please note that this project is not made for business or commercial purposes.
 
 
 ## Admin Dashboard
@@ -26,4 +26,4 @@ Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
 
 # For more projects, check out our channel ☺️
 
-https://www.youtube.com/channel/UC4_6-VSWBw_QHMyjrDDEvVQ
+https://youtube.com/@programmingoals?si=SVrFO-i0Apz2nqE0&sub_confirmation=1
